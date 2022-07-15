@@ -1,0 +1,38 @@
+$sarabun:'Sarabun', sans-serif;
+$roboto: 'Roboto', sans-serif;
+$thin: SFPThin;
+$medium: SFPRegular;
+$bold: SFPBold;
+$sizeXS: 5px;
+$sizeS: 10px;
+$sizeM: 25px;
+$sizeL: 50px;
+$sizeXL: 100px;
+$rojo: #e4222c;
+$verde:rgb(74, 167, 38);
+$grisclaro:rgb(238, 240, 240);
+$gristexto: rgb(153, 153, 153);
+$grisoscuro: rgb(77, 76, 76);
+$azuloscuro:#092347;
+$azultexto:rgb(85 118 152);
+
+@mixin wide {
+    @media (max-width: 1500px) {@content;}
+}
+@mixin laptop {
+    @media (max-width: 1280px) {@content;}
+}
+@mixin minilaptop {
+    @media (max-width: 1050px) {@content;}
+}
+@mixin tablet {
+    @media (max-width: 820px) {@content;}
+}
+@mixin movil {
+    @media (max-width: 600px) {@content;}
+}
+@mixin minimovil {
+    @media (max-width: 450px) {@content;}
+}
+
+

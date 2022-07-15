@@ -1,0 +1,58 @@
+@import "variables";
+
+/*footer*/
+footer{
+    background-color: $grisclaro;
+    margin-top: $sizeL;
+    p{
+        font-weight: 900;
+    }
+    a{
+        color: $grisoscuro;
+        font-size: 1.2rem;
+    }
+    a:hover{
+        color: $rojo;
+    }
+    i{
+        padding: $sizeL 0 $sizeM 0;
+        letter-spacing: $sizeL;
+        font-size: 25px;
+        cursor: pointer;   
+    }
+    i:hover{
+        color: $rojo;
+    }
+    .row{
+        padding-top: $sizeM;
+        .col-2{
+            @include tablet{
+                flex-basis: 33%;
+                margin-bottom: $sizeS;
+                margin-left: $sizeS;
+            }
+            @include minimovil{
+                flex-basis: 60%;
+                margin-bottom: $sizeS;
+                margin-left: $sizeS;
+            }
+        }
+    }
+    .redsocial{
+        @include minimovil{
+            padding-left: 20px;
+        }
+    }
+    .nota1{
+        font-size: 1.2rem;
+        text-align: center;
+        padding: $sizeS;
+        font-weight: 600;
+        border-top: 1px solid white;
+        @include movil{
+            font-size: 1rem;
+            padding:$sizeS;
+        }
+    }
+}
+/* --- --- */
