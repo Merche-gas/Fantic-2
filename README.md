@@ -15,7 +15,7 @@ Lorem
 
 
 ## Autor ✒️
-**Ana Plou Fernández-Mota**
+**Mercedes Gasca**
 
 * [LinkedIn](https://www.linkedin.com/in/XX)
 * [Behance](https://www.behance.net/XXX)
@@ -26,7 +26,7 @@ Lorem
 
  
 ## Contratación
-Si quieres contratarme puedes escribirme a ana.ploufm@gmail.com para consultas.
+Si quieres contratarme puedes escribirme a  para consultas.
 
 ## Licencia 📄
 MIT Public License v3.0
