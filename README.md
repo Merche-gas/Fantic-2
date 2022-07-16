@@ -1,9 +1,9 @@
-# Título del proyecto
+# Rediseño Web
 
 ![Texto Alternativo](https://rutaimg.jpg)
 
 ## Descripción 🏝
-Lorem
+Proyecto final del curso de Html y CSS el Trazos
 
 ## Tools ⛏
 
@@ -17,16 +17,10 @@ Lorem
 ## Autor ✒️
 **Mercedes Gasca**
 
-* [LinkedIn](https://www.linkedin.com/in/XX)
-* [Behance](https://www.behance.net/XXX)
-* [Porfolio web](https://XXXX.XXX/)
-
-## Ver ejemplo en vivo 
-- [XXXXXXXXX](XXXXXXXXX)
-
+* [LinkedIn](https://www.linkedin.com/in/mercedes-gasca-3804296b/)
  
 ## Contratación
-Si quieres contratarme puedes escribirme a  para consultas.
+Estoy muy contenta en mi empresa actual 
 
 ## Licencia 📄
 MIT Public License v3.0
