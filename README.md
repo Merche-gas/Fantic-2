@@ -1,7 +1,5 @@
 # Rediseño Web
 
-![Texto Alternativo](https://rutaimg.jpg)
-
 ## Descripción 🏝
 Proyecto final del curso de Html y CSS el Trazos
 
