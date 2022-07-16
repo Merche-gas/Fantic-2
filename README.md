@@ -1,7 +1,7 @@
 # Rediseño Web
 
 ## Descripción 🏝
-Proyecto final del curso de Html y CSS el Trazos
+Proyecto final del curso de Html y CSS en Trazos
 
 ## Tools ⛏
 
