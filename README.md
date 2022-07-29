@@ -1,7 +1,9 @@
-# Rediseño Web
+# Título del proyecto
+
+![Texto Alternativo](https://rutaimg.jpg)
 
 ## Descripción 🏝
-Proyecto final del curso de Html y CSS en Trazos
+Lorem
 
 ## Tools ⛏
 
@@ -13,12 +15,18 @@ Proyecto final del curso de Html y CSS en Trazos
 
 
 ## Autor ✒️
-**Mercedes Gasca**
+**Ana Plou Fernández-Mota**
 
-* [LinkedIn](https://www.linkedin.com/in/mercedes-gasca-3804296b/)
+* [LinkedIn](https://www.linkedin.com/in/XX)
+* [Behance](https://www.behance.net/XXX)
+* [Porfolio web](https://XXXX.XXX/)
+
+## Ver ejemplo en vivo 
+- [XXXXXXXXX](XXXXXXXXX)
+
  
 ## Contratación
-Estoy muy contenta en mi empresa actual 
+Si quieres contratarme puedes escribirme a ana.ploufm@gmail.com para consultas.
 
 ## Licencia 📄
 MIT Public License v3.0
