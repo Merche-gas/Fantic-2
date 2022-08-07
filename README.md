@@ -1,10 +1,9 @@
 # Rediseño Web de Fantic
 
-![Texto Alternativo](https://rutaimg.jpg)
-
 ## Descripción 🏝
-Trabajo final del curso de HTML y CSS
-Si eres biker, no entres, puede herir tu sensibilidad. Hay fotos de varias marcas mezcladas XD
+Trabajo final del curso de HTML y CSS. 
+
+Si eres biker, no entres, puede herir tu sensibilidad. Hay fotos de de bicicletas de varias marcas XD
 
 ## Tools ⛏
 
@@ -18,10 +17,7 @@ Si eres biker, no entres, puede herir tu sensibilidad. Hay fotos de varias marca
 **Mercedes Gasca**
 
 * [LinkedIn](https://www.linkedin.com/in/mercedes-gasca-3804296b/)
-* [Porfolio web](https://XXXX.XXX/)
-
-## Ver ejemplo en vivo 
-- [XXXXXXXXX](XXXXXXXXX)
+* [Porfolio web - En proceso](https://XXXX.XXX/)
 
  
 ## Contratación
